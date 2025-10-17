@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1760684599204,
+    "title": "Paneer bhurji",
+    "ingredients": [
+      "Paneer",
+      "Butter",
+      "Tomato",
+      "Cream",
+      "Spices"
+    ],
+    "instructions": "Cook tomatoes with spices, blend them, add butter and cream, then paneer cubes.",
+    "cookTime": "30 minutes",
+    "difficulty": "medium"
+  }
+]
